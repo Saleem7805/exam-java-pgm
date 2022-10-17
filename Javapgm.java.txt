@@ -1,0 +1,7 @@
+public class Javapgm
+{
+public static void main(String[] args)
+{
+System.out.println(" Sending you my first program to your repository");
+}
+}
